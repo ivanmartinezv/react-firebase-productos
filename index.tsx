@@ -9,6 +9,8 @@ interface AppState {
 }
 
 //buscar en google: react firebase crud
+//https://www.youtube.com/watch?v=dw8g8zo20Hs&ab_channel=BorjaScript
+//https://github.com/Borja95/crudFirebase
 
 class App extends Component<AppProps, AppState> {
   constructor(props) {
